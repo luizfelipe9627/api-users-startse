@@ -1,5 +1,5 @@
 # API Rest
-<img src="https://wallpaperaccess.com/full/5393409.jpg" alt="Node.JS">
+<img src="https://www.astera.com/wp-content/uploads/2020/01/rest.png" alt="API Rest">
 
 ## :thought_balloon: Conceito
 API REST serve para a comunicação entre aplicações para estabelecer o consumo de informações de forma rápida e segura. É utilizada para estruturar qualquer modelo de aplicações web para os dias atuais, onde temos um alto volume de trocas de dados sendo processados de forma assíncrona entre diversas aplicações.
