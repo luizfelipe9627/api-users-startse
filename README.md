@@ -6,7 +6,7 @@ API REST serve para a comunicação entre aplicações para estabelecer o consum
 
 ## 💻 Tecnologias utilizadas
 
-- ``Javascript``
+- ``JavaScript``
 
 ## 🧑‍💻 Criador
 
